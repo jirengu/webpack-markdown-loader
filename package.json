@@ -24,6 +24,6 @@
     "webpack-cli": "^3.3.11"
   },
   "dependencies": {
-    "markdown-it": "^10.0.0"
+    "markdown-it": "^12.3.2"
   }
 }
